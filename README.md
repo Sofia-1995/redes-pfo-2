@@ -10,11 +10,15 @@
 
 1. Intalar dependencias:
 
-   - pip intall flask flask-bcrypt
+   ```bash
+   pip intall flask flask-bcrypt
+   ```
 
 2. Ejecutar el servidor:
 
-   - python servidor.py
+   ```bash
+   python servidor.py
+   ```
 
 3. Endpoints:
    - POST /registro
